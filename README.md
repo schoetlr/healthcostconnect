@@ -1,1 +1,3 @@
 This is the second version of HealthCostConnect.  The first version can be found here: https://github.com/schoetlr/healthcost.  The first version was my first project, and its problems are documented in the  Readme.  Improvements in this version include a better database design, and AngularJS on the front end which makes for a snappy UI. I plan on adding an admin section to this version next.
+
+I lost a lot of commits because I was having problems deploying to Heroku.  I tried everything under the sun for two straight weeks, and eventually just copied everything to a different repo and it started working.
